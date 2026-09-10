@@ -5,7 +5,7 @@ Evidencia Prueba Práctica
 | Kevin Garcés | Analista | @Javi2145 |  Análisis del problema |
 | Cristian Gómez | Programador | @Cristian-GT2006 | Diseño del algoritmo |
 | Erick Cordònez | Desarrollador | @Erick-100  | Codificación |
-
+| Jose Caiza |DOCENTE | | 1 |
 
 
 Cristian Gómez
