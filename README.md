@@ -9,6 +9,6 @@ Evidencia Prueba Práctica
 
 Cristian Gómez
 
-Erick Cordones
+Erick Cordónez
 
 Kevin Garcés
