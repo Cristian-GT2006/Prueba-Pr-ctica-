@@ -7,6 +7,12 @@ Evidencia Prueba Práctica
 | Erick Cordònez | Desarrollador | @Erick-100  | Codificación |
 | Jose Caiza |DOCENTE | | 1 |
 
+|Nombres Que Faltaron | Rol | Usuario GitHub | Tarea |
+| --------------------|-----|----------------|-------|
+| Alex Cabrera | No Asistió | @....... | ..... |
+| Esteban Zambrano | No Asistió | @.....| ..... |
+
+
 
 Cristian Gómez
 
