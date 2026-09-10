@@ -1,7 +1,7 @@
 # Prueba-Pr-ctica-
 Evidencia Prueba Práctica 
-| Nombre | Rol |  Usuario GitHub | Tarea |
-|--------|-----|-----------------|-------|
+| Nombre | Rol |  Usuario GitHub | Tarea | Artefacto Asignado |
+|--------|-----|-----------------|-------|--------------------|
 | Kevin Garcés | Analista | @Javi2145 |  Análisis del problema |
 | Cristian Gómez | Programador | @Cristian-GT2006 | Diseño del algoritmo |
 | Erick Cordònez | Desarrollador | @Erick-100  | Codificación |
