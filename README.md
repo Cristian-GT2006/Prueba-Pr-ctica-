@@ -13,6 +13,11 @@ Cristian Gómez
 Erick Cordónez
 
 Kevin Garcés
+Identificar el problema: leer el enunciado y extraer claramente cuál es la necesidad o situación a resolver.
+Determinar los datos de entrada: qué información se recibe (tipo de dato, formato, restricciones).
+Determinar los datos de salida: qué resultado se espera obtener.
+Establecer las reglas y restricciones: condiciones, fórmulas, casos especiales, validaciones necesarias.
+Documentar los requerimientos: dejar por escrito el alcance del problema para que el resto del equipo lo entienda igual.
 ## Metodologías:
 
 ```mermaid
