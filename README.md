@@ -13,7 +13,7 @@ Cristian Gómez
 Erick Cordónez
 
 Kevin Garcés
-## Metodologías: Tradicionales vs Ágiles
+## Metodologías:
 
 ```mermaid
 flowchart LR
