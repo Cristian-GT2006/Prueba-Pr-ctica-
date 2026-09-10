@@ -2,9 +2,9 @@
 Evidencia Prueba Práctica 
 | Nombre | Rol | Tarea |
 |--------|-----|-------|
-| Cristian Gómez | Análisis | Backend |
-| Erick Cordones | Código | Frontend |
-| Kevin Garcés | Pruebas de escritorio| README |
+| Cristian Gómez | Análisis |
+| Erick Cordones | Código |
+| Kevin Garcés | Pruebas de escritorio|
 
 Cristian Gómez
 
