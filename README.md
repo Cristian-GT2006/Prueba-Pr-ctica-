@@ -13,3 +13,18 @@ Cristian Gómez
 Erick Cordónez
 
 Kevin Garcés
+## Metodologías: Tradicionales vs Ágiles
+
+```mermaid
+flowchart LR
+    subgraph Tradicional["Metodologías Tradicionales"]
+        direction LR
+        A1[1 Planteamiento] --> A2[2 Análisis] --> A3[3 Diseño] --> A4[4 Programación] --> A5[5 Pruebas] --> A6((Puesta en marcha))
+    end
+
+    subgraph Agil["Metodologías Ágiles"]
+        direction LR
+        B1[1 Planteamiento] --> B2[2 Requerimientos priorizados] --> B3{{Iteración}}
+        B3 -.-> B3
+        B3 --> B4((Puesta en marcha))
+    end
