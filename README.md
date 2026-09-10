@@ -6,7 +6,7 @@ Evidencia Prueba Práctica
 | Cristian Gómez | Programador | @Cristian-GT2006 | Diseño del algoritmo |
 | Erick Cordònez | Desarrollador | @Erick-100  | Codificación |
 
-| Kevin Garcés | Tester |  Prueba de escritorio |
+
 
 Cristian Gómez
 
