@@ -2,9 +2,10 @@
 Evidencia Prueba Práctica 
 | Nombre | Rol | Tarea |
 |--------|-----|-------|
-| Cristian Gómez |  | Análisis
-| Erick Cordones | Diseñador | Código 
-| Kevin Garcés | |Pruebas de escritorio
+| Kevin Garcés | Analista | Análisis del problema |
+| Cristian Gómez | Programador | Diseño del algoritmo |
+| Erick Cordones | Desarrollador | Codificación |
+| Kevin Garcés | Tester | Prueba de escritorio |
 
 Cristian Gómez
 
