@@ -1,5 +1,17 @@
 # Prueba-Pr-ctica-
 Evidencia Prueba Práctica 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=BIENVENIDO%20A%20LA%20PRUEBA%20PRACTICA&fontSize=30&fontColor=00FFAB&animation=twinkling&fontAlignY=35&desc=Repositorio%20Colaborativo%20de%20Programaci%C3%B3n&descAlignY=55&descSize=17&stroke=00FFAB&strokeWidth=1"/>
+
+<br/>
+
+<!-- Typing animado debajo del banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFAB&center=true&vCenter=true&width=500&lines=Trabajo+en+Equipo;C%C3%B3digo+Limpio;Aprendiendo+y+Creciendo" alt="typing"/>
+
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFAB,100:2c5364&height=3"/>
+
 | Nombre | Rol |  Usuario GitHub | Tarea |
 |--------|-----|-----------------|-------|
 | Kevin Garcés | Analista | @Javi2145 |  Análisis del problema |
